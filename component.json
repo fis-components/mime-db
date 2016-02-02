@@ -1,0 +1,9 @@
+{
+    "name": "mime-db",
+    "description": "Media Type Database",
+    "repos": "https://github.com/jshttp/mime-db",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.14.0"
+}
